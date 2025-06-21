@@ -19,21 +19,21 @@ const questions = [
     options: [
       {
         value: 0,
-        label: "0 Fields remain bare post-harvest; no cover or living roots.",
+        label: "Fields remain bare post-harvest; no cover or living roots.",
       },
       {
         value: 1,
-        label: "1 - Occasional cover or volunteer growth left unintentionally.",
+        label: "Occasional cover or volunteer growth left unintentionally.",
       },
-      { value: 2, label: "2- Cover crops used in some seasons" },
+      { value: 2, label: "Cover crops used in some seasons" },
       {
         value: 3,
-        label: "3- Cover crops used intentionally and consistently on most plots.",
+        label: "Cover crops used intentionally and consistently on most plots.",
       },
       {
         value: 4,
         label:
-          "4- Diverse, multi-species cover crops maintained year-round for continuous soil cover and living roots",
+          "Diverse, multi-species cover crops maintained year-round for continuous soil cover and living roots",
       },
     ],
   },
@@ -42,14 +42,14 @@ const questions = [
     label:
       "1.2 Which one of the following best describes the tillage practices in this farm?",
     options: [
-      { value: 0, label: "0- Conventional deep tillage used regularly." },
-      { value: 1, label: "1- Occasional reduced tillage in select plots." },
-      { value: 2, label: "2- Reduced tillage used across many." },
-      { value: 3, label: "3- Minimum tillage applied consistently." },
+      { value: 0, label: "Conventional deep tillage used regularly." },
+      { value: 1, label: "Occasional reduced tillage in select plots." },
+      { value: 2, label: "Reduced tillage used across many." },
+      { value: 3, label: "Minimum tillage applied consistently." },
       {
         value: 4,
         label:
-          "4- No-till or minimal disturbance practiced with specialized tools; soil structure well-preserved.",
+          "No-till or minimal disturbance practiced with specialized tools; soil structure well-preserved.",
       },
     ],
   },
@@ -60,18 +60,18 @@ const questions = [
     options: [
       {
         value: 0,
-        label: "0- No compost or organic inputs; only synthetic fertilizers used.",
+        label: "No compost or organic inputs; only synthetic fertilizers used.",
       },
-      { value: 1, label: "1- Some compost used, often externally sourced." },
-      { value: 2, label: "2- Own-farm compost applied to a few plots." },
+      { value: 1, label: "Some compost used, often externally sourced." },
+      { value: 2, label: "Own-farm compost applied to a few plots." },
       {
         value: 3,
-        label: "3- Regular application of well-prepared compost/farmyard manure.",
+        label: "Regular application of well-prepared compost/farmyard manure.",
       },
       {
         value: 4,
         label:
-          "4- Integrated system using compost, bioinputs, and soil biology enhancement (e.g.jeevamrit/vermicompost).",
+          "Integrated system using compost, bioinputs, and soil biology enhancement (e.g.jeevamrit/vermicompost).",
       },
     ],
   },
