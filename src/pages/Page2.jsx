@@ -13,7 +13,7 @@ function Page2({ onNext, onBack, form }) {
     fullName: form.fullName || "",
     date: form.date || "",
     gender: form.gender || "",
-    dob: form.dob || "",
+    dob: form.dob || "" ,
     aadhar: form.aadhar || "",
   });
 
